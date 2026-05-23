@@ -1,6 +1,6 @@
 # Pan-African Federated Cancer Detection Network
 
-A federated learning system that trains a shared breast cancer detection model across 6 hospitals in 6 countries — without a single patient record ever leaving any hospital.
+A federated learning system that trains a shared breast cancer detection model across 6 hospitals in 6 countries, without a single patient record ever leaving any hospital.
 
 ## Problem
 12 hospitals across 6 African countries want to train a shared AI model to detect breast cancer. But patient data cannot leave each country due to privacy laws (NDPR Nigeria, POPIA South Africa). Centralizing data is legally impossible.
